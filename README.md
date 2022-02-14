@@ -1,7 +1,7 @@
 # JavaFX_Retrofit_GET
 Simple JavaFX cliente Rest API (get) implementado con Retrofit2
 
-**Para que el servidor JSON funcione debemos iniciar un contenedor al que se le pasa el fichero JSON con las entidades y datos.** En nuestro programa el fichero es productos.json 
+**Para que el servidor JSON funcione debemos iniciar un contenedor al que se le pasa el fichero JSON con las entidades y datos.** En nuestro programa el fichero es productos.json que sólo contiene una entidad.
 
 El comando para ejecutarlo es ....
 
