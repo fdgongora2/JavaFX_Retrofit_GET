@@ -7,5 +7,5 @@ El comando para ejecutarlo es ....
 
 >docker run -d -p 8080:80 -v /rutaA/productos.json:/data/db.json clue/json-server
 
-El servicio REST API está accesible en http://localhost:8080
+El servicio REST API estará accesible en http://localhost:8080
 
